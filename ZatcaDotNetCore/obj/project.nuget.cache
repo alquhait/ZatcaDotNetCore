@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "93hQDd/cEaU1uthDAjtI9RRH3mqE7n8G60iDSe7ebFyPei2M9HcCOLfowyngAKbqDeYxIabbG5s5U8zPq/u4Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\ZatcaCore\\ZatcaDotNetCore\\ZatcaDotNetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\qrcoder\\1.4.2\\qrcoder.1.4.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
